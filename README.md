@@ -9,13 +9,14 @@ Unfortunately, I could not complete this project due to certain circumstances.
 
 ![Screenshots](quiz%20screenshots%2Fgeneral%20round.png)
 
+![Screenshots](quiz%20screenshots%2Fquiz%20screenshot.png)
+
 ![Screenshots](quiz%20screenshots%2Fgeneral%20round%20rules.png)
 
 ![Screenshots](quiz%20screenshots%2Fquiz%20question.png)
 
-![Screenshots](quiz%20screenshots%2Fquiz%20screenshot.png)
-
 ![Screenshots](quiz%20screenshots%2Fquiz%20answer%20show.png)
+
 
 ![Screenshots](quiz%20screenshots%2Fparticipant%20list.png)
 
