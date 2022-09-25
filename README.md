@@ -17,8 +17,8 @@ Unfortunately, I could not complete this project due to certain circumstances.
 
 ![Screenshots](quiz%20screenshots%2Fhomepage.png)
 
-![Screenshots](quiz%20scoreboard.png)
+![Screenshots](quiz%20screenshots%2Fscoreboard.png)
 
-![Screenshots](quiz%20set%20score%20feature.png)
+![Screenshots](quiz%20screenshots%2Fscore%20feature.png)
 
-![Screenshots](quiz%20about%20us.png)
+![Screenshots](quiz%20screenshots%2Fabout%20us.png)
